@@ -1,31 +1,35 @@
 ---
 layout: page
-title: About the Theme
-image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+title: About
 comments: false
+share: false
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+## About
 
-## What HPSTR brings to the table:
+Tyler Calderone is a software developer who currently writes code for [JibJab](http://www.jibjab.com/), where he helps make make billions of people happy.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+Aside from developing webapps, he works on various projects in multiple languages, ranging from iOS's Objective-C, to Android's Java and Dalvik runtime.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
+Not only does he enjoy building, Tyler enjoys the security side of things as well. Tyler hopes to use his development mindset to further his future in the software security field, be it by building stronger more secure webapps, or by finding weaknesses in existing software.
 
-[^1]: Example: *domain.com/category-name/post-title*
+## Work
+
+I've worked on multiple side projects, for both fun and knowledge. I have experience ranging from HTML, JavaScript, Ruby (and Rails) to compilable code like Objective-C and Java. I enjoy learning new languages and bettering my techniques in the languages I already know.
+
+* [**Activator Demo** *(iOS, Theos, Objective-C)*](https://github.com/Tyr0/ActivatorDemo) A simple example on how to use [@rpetrich](https://twitter.com/rpetrich)'s libactivator library on iOS.
+* [**CooKooRoo** *(iOS, Objective-C)*](https://github.com/Tyr0/CooKooRoo) An open source iOS Application for interfacing with the [CooKoo Watch](http://www.cookoowatch.com/). Commands were discovered via reverse engineering.
+* [**Guy Manuel Helmet** *(Arduino, C)*](https://github.com/Tyr0/Guy-Manuel-Helmet) The code, and schematics, for my personal Daft Punk helmet, seen here.
+* [**Ruby Benchmarking Tools** *(Ruby)*](https://github.com/Tyr0/ruby-benchmarking-tools) A collection of Ruby benchmarking tools for various objects.
+* [**BonaFide** *(Ruby, Rails)*](https://github.com/Tyr0/bona_fide) Low level Rack authentication enforcement. BonaFide is a bare minimum Rack middleware that allows for seamless user detection.
+* [**Glass Toggles** *(Java)*](https://github.com/Tyr0/Glass-Toggles) Glass Toggles provies a quick toggles for powering off resource hungry system features, like WiFi and Bluetooth.
+
+## Find
+
+Apart from my blog, you can also find me on some social networks. Feel free ping me!
+
+* [Email](mailto:{{ site.owner.email }})
+* [Twitter](//twitter.com/{{ site.owner.twitter }})
+* [Google+](//google.com/{{ site.owner.google_plus }})
+* [LinkedIn](//linkedin.com/in/{{ site.owner.linkedin }})
+* [GitHub](//github.com/{{ site.owner.github }})
