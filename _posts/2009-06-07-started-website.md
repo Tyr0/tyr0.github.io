@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Started my website!
-category: blog
 tags: blog iInterrupt
 ---
 I just started this website, and I will continue to work on it until it is finished.

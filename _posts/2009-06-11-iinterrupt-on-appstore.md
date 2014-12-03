@@ -1,7 +1,6 @@
 ---
 layout: post
 title: iInterrupt out on AppStore!!
-category: blog
 tags: blog iInterrupt
 ---
 My first app, iInterrupt, has finally made it out to the AppStore (first try!).

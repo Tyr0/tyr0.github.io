@@ -1,7 +1,6 @@
 ---
 layout: post
 title: iInterrupt Lite out on AppStore!!
-category: blog
 tags: blog iInterrupt
 ---
 YAY! Finally!

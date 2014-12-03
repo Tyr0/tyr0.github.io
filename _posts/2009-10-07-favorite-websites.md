@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Favorite Websites
-category: blog
 tags: blog websites
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Glass at Gold's
-category: blog
 tags: blog Google Glass
 image:
-  feature: glass-at-golds/google-glass.jpg
+  feature: glass-at-golds/background.jpg
   credit: TechCrunch
   creditlink: http://techcrunch.com/2013/05/03/google-glass-will-soon-also-let-iphone-users-access-navigation-and-text-messages/
 ---

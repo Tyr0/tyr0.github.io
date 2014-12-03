@@ -42,6 +42,17 @@ excerpt_separator: "<!-- excerpt -->"
 paginate_path: ":num/"
 paginate: 5
 
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      category: blog
+      image:
+        feature: background.jpg
+        credit: Louis Abate
+        creditlink: https://www.flickr.com/photos/louisabate/4257197745
+
 kramdown:
   auto_ids: true
   footnote_nr: 1

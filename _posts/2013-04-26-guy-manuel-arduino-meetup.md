@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Guy-Manuel Arduino Meetup
-category: blog
 tags: blog arduino daft punk
+image:
+  feature: guy-manuel-arduino-meetup/background.jpg
+  credit: Hell Dorado
+  creditlink: https://www.flickr.com/photos/helldorado666/3300589860
 ---
 
 This Thursday I presented my progress on my Guy-Manuel de Homem-Christo helmet, had a blast. For those of you who haven't heard of Guy-Manuel, perhaps you've heard of Daft Punk? If not, then hopefully you'll still find this post interesting.
