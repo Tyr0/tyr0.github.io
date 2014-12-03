@@ -38,6 +38,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
+paginate_path: ":num/"
 paginate: 5
 
 kramdown:
