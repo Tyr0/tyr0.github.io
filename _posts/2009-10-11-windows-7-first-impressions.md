@@ -9,6 +9,8 @@ I recently received my Windows 7 Ultimate: Signature Edition for signing up to h
 
 It came in a box, filled with party favors, which they called the "party pack". Inside it contained:
 
+<!-- excerpt -->
+
 * One Windows 7 Poster
 * One deck of Windows 7 playing cards
 * One puzzle with a Windows 7 desktop design
@@ -43,7 +45,7 @@ All in all, Windows 7 has got to be the best operating system out there...when i
 
 - - -
 
-## Update On Sunday October 11, 2009
+### Update: October 11, 2009
 
 After searching around the web a little bit more, and messing around with my computer, I realized I may have missed a few details.
 

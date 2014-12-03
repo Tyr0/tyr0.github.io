@@ -36,6 +36,7 @@ sass:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+excerpt_separator: "<!-- excerpt -->"
 
 # Amount of post to show on home page
 paginate_path: ":num/"

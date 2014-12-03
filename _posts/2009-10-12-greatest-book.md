@@ -6,6 +6,8 @@ tags: blog book Apple
 ---
 Growing up in my time, from the early 90’s to now, I have always had a computer by my side. Computers have just been there for me, since the beginning, and I have never questioned their existence. Until now.
 
+<!-- excerpt -->
+
 [
   ![iWoz Cover](/images/greatest-book/iwoz-cover.png)
 ](/images/greatest-book/iwoz-cover.png)

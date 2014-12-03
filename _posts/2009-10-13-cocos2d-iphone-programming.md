@@ -9,6 +9,8 @@ So as you all may, or may not know, I have recently been working on my first iPh
 
 That's right, a game. Some of you may not know that games are *much* different from regular applications, in the programming aspect. I spent a lot of time researching different techniques for developing iPhone games, and the best one I found was Cocos2d, a free and open source game engine for the iPhone SDK.
 
+<!-- excerpt -->
+
 [
   ![Cocos2D Banner](/images/cocos2d-iphone-programming/cocos2d-banner.jpg)
 ](/images/cocos2d-iphone-programming/cocos2d-banner.jpg)

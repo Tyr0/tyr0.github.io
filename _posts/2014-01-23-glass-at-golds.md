@@ -9,13 +9,9 @@ image:
   creditlink: http://techcrunch.com/2013/05/03/google-glass-will-soon-also-let-iphone-users-access-navigation-and-text-messages/
 ---
 
-**UPDATE**:
-
-I was politely contacted by a manager of Gold's Gym who informed me that the employee did not have the authority, and they did not approve of the banning. I appreciate the followup from Gold's, and hope more people will open up to these emerging technologies.
-
-- - -
-
 I've had [Google Glass](//www.google.com/glass/) for a few months now, an I'm no stranger to the glaring eyes. After taking a few days for myself to get used to wearing Glass, I realized it would take me longer to get used to the reactions of others.
+
+<!-- excerpt -->
 
 My first week of wearing Glass in public, I was concerned people would label me as a Glasshole and denounce me. They did not, most people were ecstatic to see a pair in person. I've worn them around town, while shopping, and yes, [even the movies](//www.theverge.com/2014/1/21/5331748/google-glass-wearing-movie-patron-questioned-for-piracy). That abruptly ended today.
 
@@ -35,3 +31,9 @@ If more people understood what Glass was capable, moreover what it isn't, then p
 * Most importantly, I'm in there doing my own thing, not focusing on/staring at others
 
 I just wish that the common misconceptions about Glass could be cleared up to avert issues like this from arising in the future. Maybe even just for starters, Gold's Gym could follow their own rules and restrict filming for everybody, or let this new an expanding wearables market progress where it needs to, without this unnecessary battling.
+
+- - -
+
+### Update: March 2, 2014
+
+I was politely contacted by a manager of Gold's Gym who informed me that the employee did not have the authority, and they did not approve of the banning. I appreciate the followup from Gold's, and hope more people will open up to these emerging technologies.

@@ -7,6 +7,8 @@ tags: blog websites
 
 I figured since some of you may not know a lot about the "nerd news", and what new devices and gadgets are coming out, or which TV should I get, so I'm going to put together a list of my favorite websites.
 
+<!-- excerpt -->
+
 ### Overall "Nerd News"
 
 * [The Verge](//www.theverge.com/) - From science to gaming, The Verge has it covered
