@@ -2,7 +2,7 @@
 layout: post
 title: Glass at Gold's
 identifier: glass-at-golds
-tags: blog Google Glass
+tags: [blog, Google, Glass, Gold's Gym, Venice]
 image:
   feature: glass-at-golds/background.jpg
   credit: TechCrunch

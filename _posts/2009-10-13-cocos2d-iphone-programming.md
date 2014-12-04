@@ -2,7 +2,7 @@
 layout: post
 title: Cocos2D iPhone Programming
 identifier: cocos2d-iphone-programming
-tags: blog Apple iOS programming cocos2d game
+tags: [blog, Apple, iOS, programming, cocos2d, game]
 ---
 
 So as you all may, or may not know, I have recently been working on my first iPhone game.

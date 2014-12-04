@@ -2,7 +2,7 @@
 layout: post
 title: Favorite Websites
 identifier: favorite-websites
-tags: blog websites
+tags: [blog, websites, iOS, nerd, TV, programming]
 ---
 
 I figured since some of you may not know a lot about the "nerd news", and what new devices and gadgets are coming out, or which TV should I get, so I'm going to put together a list of my favorite websites.

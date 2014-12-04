@@ -2,7 +2,7 @@
 layout: post
 title: Guy-Manuel Arduino Meetup
 identifier: guy-manuel-arduino-meetup
-tags: blog arduino daft punk
+tags: [blog, programming, meetup, arduino, daft punk]
 image:
   feature: guy-manuel-arduino-meetup/background.jpg
   credit: Hell Dorado

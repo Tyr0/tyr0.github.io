@@ -2,7 +2,7 @@
 layout: post
 title: My First Windows 7 Impressions
 identifier: windows-7-first-impressions
-tags: blog Windows
+tags: [blog, Windows]
 modified: 2009-10-11
 ---
 I recently received my Windows 7 Ultimate: Signature Edition for signing up to host a Windows 7 House Party.
