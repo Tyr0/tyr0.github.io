@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Windows 7 Impressions
+identifier: windows-7-first-impressions
 tags: blog Windows
 modified: 2009-10-11
 ---

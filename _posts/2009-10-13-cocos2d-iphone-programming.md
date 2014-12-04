@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cocos2D iPhone Programming
+identifier: cocos2d-iphone-programming
 tags: blog Apple iOS programming cocos2d game
 ---
 

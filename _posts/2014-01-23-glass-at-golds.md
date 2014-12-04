@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Glass at Gold's
+identifier: glass-at-golds
 tags: blog Google Glass
 image:
   feature: glass-at-golds/background.jpg
