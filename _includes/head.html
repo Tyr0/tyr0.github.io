@@ -12,8 +12,8 @@
 <!-- Twitter Cards -->
 {% if page.image.feature %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
-  <meta name="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
+  <meta name="twitter:image" content="https:{{ site.url }}/images/{{ page.image.feature }}">
+  <meta name="og:image" content="https:{{ site.url }}/images/{{ page.image.feature }}">
 {% else %}
   <meta name="twitter:card" content="summary">
   <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">
@@ -29,7 +29,7 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{{ descr }}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:url" content="https:{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
 {% if site.google_verify %}
