@@ -5,16 +5,18 @@ layout: null
   "posts": [
     {% for post in site.posts %}
       {
+        "identifier": "{{ post.identifier }}",
         "title": "{{ post.title | json }}",
+        "content": "{{ post.content | strip_newlines | escape }}",
+        "excerpt": "{{ post.excerpt | strip_html | strip_newlines | json }}",
         "url": "{{ post.url | json }}",
         "tags": ["{{ post.tags | join: '","' }}"],
-        "created_at": {{ post.date | date: "%s" }},
+        "created_at": {{ post.date | date: "%s" }}
         {% if post.modified %}
-          "updated_at": {{ post.modified | date: "%s" }},
+          ,"updated_at": {{ post.modified | date: "%s" }}
         {% else %}
-          "updated_at": {{ post.date | date: "%s" }},
+          ,"updated_at": {{ post.date | date: "%s" }}
         {% endif %}
-        "excerpt": "{{ post.excerpt | strip_html | strip_newlines | json }}"
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ],
