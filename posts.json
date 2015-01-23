@@ -9,7 +9,10 @@ layout: null
         "title": "{{ post.title | json }}",
         "content": "{{ post.content | strip_newlines | escape }}",
         "excerpt": "{{ post.excerpt | strip_html | strip_newlines | json }}",
-        "url": "{{ post.url | json }}",
+        "url": "https:{{ site.url }}{{ post.url | json }}",
+        {% if post.image.feature %}
+        "image": "https:{{ site.url }}/images/{{ post.image.feature }}",
+        {% endif %}
         "tags": ["{{ post.tags | join: '","' }}"],
         "created_at": {{ post.date | date: "%s" }}
         {% if post.modified %}
