@@ -6,7 +6,8 @@ layout: null
     {% for post in site.posts %}
       {
         "identifier": "{{ post.identifier }}",
-        "title": "{{ post.title | json }}",
+        "title": "{{ post.title | replace: '"', '\"' }}",
+        "titleNoFormatting": "{{ post.title | strip_html | strip_newlines }}",
         "content": "{{ post.content | strip_newlines | replace: '"', '\"' }}",
         "contentNoFormatting": "{{ post.content | strip_html | strip_newlines }}",
         "excerpt": "{{ post.excerpt | strip_newlines | replace: '"', '\"' }}",
