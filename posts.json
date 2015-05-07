@@ -8,7 +8,9 @@ layout: null
         "identifier": "{{ post.identifier }}",
         "title": "{{ post.title | json }}",
         "content": "{{ post.content | strip_newlines | replace: '"', '\"' }}",
-        "excerpt": "{{ post.excerpt | strip_html | strip_newlines | json }}",
+        "contentNoFormatting": "{{ post.content | strip_html | strip_newlines }}",
+        "excerpt": "{{ post.excerpt | strip_newlines | replace: '"', '\"' }}",
+        "excerptNoFormatting": "{{ post.excerpt | strip_html | strip_newlines }}",
         "url": "https:{{ site.url }}{{ post.url | json }}",
         {% if post.image.feature %}
         "image": "https:{{ site.url }}/images/{{ post.image.feature }}",
