@@ -7,16 +7,16 @@ share: false
 
 ## About
 
-Tyler Calderone is a software developer who currently writes code for [JibJab](http://www.jibjab.com/), where he helps make make billions of people happy.
+Hi! I write code for [Apple](//www.apple.com/). I like to break things with Objective-C and Ruby. I was born and raised in Cali.
 
-Aside from developing webapps, he works on various projects in multiple languages, ranging from iOS's Objective-C, to Android's Java and Dalvik runtime.
-
-Not only does he enjoy building, Tyler enjoys the security side of things as well. Tyler hopes to use his development mindset to further his future in the software security field, be it by building stronger more secure webapps, or by finding weaknesses in existing software.
+I've worked on various projects in multiple languages, ranging from iOS & Android to full stack web development using Ruby on Rails.
 
 ## Work
 
 I've worked on multiple side projects, for both fun and knowledge. I have experience ranging from HTML, JavaScript, Ruby (and Rails) to compilable code like Objective-C and Java. I enjoy learning new languages and bettering my techniques in the languages I already know.
 
+* [**JibJab Messages** *(iOS, Objective-C)*](https://msgs.jibjab.com) Say #awesome, #lol, or #wtf in a whole NEW way by adding yourself(ie) or your friends to hilarious animated GIFs!
+* [**JibJab for Messenger** *(iOS & Android)*](https://msgs.jibjab.com/messenger) Add yourself(ie) or your friends to hilarious animated GIFs and messages, then quickly share within Messenger.
 * [**Activator Demo** *(iOS, Theos, Objective-C)*](https://github.com/Tyr0/ActivatorDemo) A simple example on how to use [@rpetrich](https://twitter.com/rpetrich)'s libactivator library on iOS.
 * [**CooKooRoo** *(iOS, Objective-C)*](https://github.com/Tyr0/CooKooRoo) An open source iOS Application for interfacing with the [CooKoo Watch](http://www.cookoowatch.com/). Commands were discovered via reverse engineering.
 * [**Guy Manuel Helmet** *(Arduino, C)*](https://github.com/Tyr0/Guy-Manuel-Helmet) The code, and schematics, for my personal Daft Punk helmet, seen here.
